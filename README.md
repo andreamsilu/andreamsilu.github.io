@@ -1,2 +1,2 @@
-# andreamsilu.github.io
-Andrea msilu github pages
+# swahilinerd.github.io
+personal github pages
