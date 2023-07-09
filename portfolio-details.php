@@ -26,7 +26,7 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
-  
+
 </head>
 
 <body>
@@ -46,7 +46,7 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-1.jpg" alt="">
+                  <img src="assets/img/android.jpg" alt="">
                 </div>
 
                 <div class="swiper-slide">
