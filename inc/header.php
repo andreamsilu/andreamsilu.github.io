@@ -67,4 +67,5 @@
       </div>
 
     </div>
-  </header><!-- End Header -->
+  </header>
+  <!-- End Header -->
