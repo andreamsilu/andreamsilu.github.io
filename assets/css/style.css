@@ -10,7 +10,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bground.jpg") top right no-repeat;
+  background: #040404 url("assets/img/gradient-black-background-with-wavy-lines_23-2149157312.avif") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
