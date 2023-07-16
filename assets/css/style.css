@@ -262,8 +262,7 @@ h6 {
 .navbar .active:focus,
 .navbar li:hover>a {
   color: #fff;
-  /* border:#15bb62 so; */
-  border-radius: 10px;
+  border-radius: 5px;
   background-color: #15bb62 ;
   padding: 8px;
   
