@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-  color: #35e888;
+  color: #18d26e;
   text-decoration: none;
 }
 
@@ -695,7 +695,8 @@ section .container {
  #certification {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   /* border-collapse: collapse; */
-  width: 100%;
+  width: 70%;
+ margin:0%;
 }
 
 #certification td, #certification th,#certification tr {
@@ -713,7 +714,7 @@ section .container {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
-  background-color: #4CAF50;
+  background-color: #18d26e;
   color: white;
 }
 /* 
